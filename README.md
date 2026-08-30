@@ -1,1 +1,1 @@
-# Statistical-Modeling-and-Pattern-Recognition
+Projects developed in MATLAB and Python, covering PCA and LDA dimensionality reduction, Bayes classification, feature extraction, minimum-risk classification, the Perceptron algorithm, logistic regression, maximum likelihood estimation, K-means clustering, Gaussian mixture models, and neural networks for image classification.
